@@ -741,7 +741,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🎮 Games & Emulators
-#### **Games**
+- **Games**
    - `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
 	- `MDY` [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) <sup>`FOSS`</sup>
 	- `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
@@ -763,27 +763,26 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
 	- `MY` [Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
 	- `MY` [Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
-#### **Quiz/Trivia**
+- **Quiz/Trivia**
 	- `MDY` [New Quiz](https://github.com/joaomanaia/newquiz) <sup>`FOSS`</sup>
 	- `MDY` [Trivia You](https://github.com/you-apps/TriviaYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq)
-####  **Emulators**
+- **Emulators**
 	- `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`FOSS`</sup>
 	- `MDY` [Rekado](https://github.com/MenosGrante/Rekado) <sup>`FOSS`</sup>
 	- `MDY` [Joiplay](https://joiplay.net/)
 	- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
-##### 3DS
-	- `MDY` [Azahar](https://github.com/azahar-emu/azahar) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-	- `MDY` [Citra](https://github.com/PabloMK7/citra) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-	- `MDY` [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-
-#### **Tools**
+		- **3DS**
+			- `MDY` [Azahar](https://github.com/azahar-emu/azahar) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+			- `MDY` [Citra](https://github.com/PabloMK7/citra) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+			- `MDY` [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+- **Tools**
 	- `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
 	- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
 	- `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
 	- `MDY` [Croissant](https://github.com/joeloewi7178/Croissant) <sup>`FOSS`</sup>
 	- `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`FOSS`</sup>
-	- `MD` [GG: Game Giveaways Notifier](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways)
+ 	- `MD` [GG: Game Giveaways Notifier](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
