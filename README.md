@@ -772,10 +772,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Rekado](https://github.com/MenosGrante/Rekado) <sup>`FOSS`</sup>
 	- `MDY` [Joiplay](https://joiplay.net/)
 	- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
-		- **3DS**
-			- `MDY` [Azahar](https://github.com/azahar-emu/azahar) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-			- `MDY` [Citra](https://github.com/PabloMK7/citra) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-			- `MDY` [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+	- **3DS**
+		- `MDY` [Azahar](https://github.com/azahar-emu/azahar) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+		- `MDY` [Citra](https://github.com/PabloMK7/citra) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+		- `MDY` [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 - **Tools**
 	- `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
 	- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
