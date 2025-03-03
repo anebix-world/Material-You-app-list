@@ -223,7 +223,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /> **Mastodon**
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
-- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
+- `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup>
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) <sup>`FOSS`</sup>
@@ -609,7 +609,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 	- `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [Cromite](https://github.com/uazo/cromite) <sup>`FOSS`</sup>  <sup>`FORK`</sup>
-	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup>
+	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup> <sup> `🪦` </sup>
 	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup>
 	- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
  	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
@@ -720,6 +720,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🌦️ Weather
+- `MDY` [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) <sup>`FOSS`</sup>
 - `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
 - `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`FOSS`</sup> <sup> `🪦` </sup>
@@ -872,6 +873,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🎙️ Audio Recorder
+- `MDY` [Recording Studio](https://github.com/Leonidius20/RecordingStudio) <sup>`FOSS`</sup>
 - `MDY` [Fossify Recorder](https://github.com/FossifyOrg/Voice-Recorder) <sup>`FOSS`</sup>
 - `MDY` [Record You](https://github.com/you-apps/recordYou) <sup>`FOSS`</sup>
 - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
@@ -968,7 +970,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
-- `MD` [K-9 Mail](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
+- `MD` [Thunderbird](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1003,6 +1005,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### ⏱️ Clocks/Timers
+- `MDY` [Clock](https://github.com/BlackyHawky/Clock) <sup>`FOSS`</sup>
 - `MDY` [Chrono](https://github.com/vicolo-dev/chrono) <sup>`FOSS`</sup>
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 - `MDY` [Fossify Clock](https://github.com/FossifyOrg/Clock) <sup>`FOSS`</sup>
@@ -1457,6 +1460,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`FOSS`</sup>
 - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
 - `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup>
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
